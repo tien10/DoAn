@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "a1",
+      "password": "a1"
+    },
+    {
+      "id": 2,
+      "username": "a2",
+      "password": "a2"
+    },
+    {
+      "username": "akjfdaskljfaklwji",
+      "password": "akjfkqjoiwrqkjfkas",
+      "id": 3
+    },
+    {
+      "{\"query\":\"\"}": "",
+      "id": 4
+    },
+    {
+      "username": "a3",
+      "password": "a3",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "username": "a4",
+      "password": "a4",
+      "id": 7
+    },
+    {
+      "username": "a5",
+      "password": "a5",
+      "id": 8
+    }
+  ]
+}
